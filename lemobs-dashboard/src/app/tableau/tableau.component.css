@@ -1,0 +1,16 @@
+.vizContainer{
+display: flex;
+justify-content: center;
+align-items: center;
+width: 95vw;
+height: 100%;
+}
+.barra iframe{
+    width: 40vw;
+    height: 82vh;
+}
+.pizza iframe{
+    width: 40vw;
+    height: 82vh;
+}
+
